@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\tassk4\tassk4\bin\Debug\tassk4.exe.config
+C:\Users\user\source\repos\tassk4\tassk4\bin\Debug\tassk4.exe
+C:\Users\user\source\repos\tassk4\tassk4\bin\Debug\tassk4.pdb
+C:\Users\user\source\repos\tassk4\tassk4\obj\Debug\tassk4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tassk4\tassk4\obj\Debug\tassk4.Form1.resources
+C:\Users\user\source\repos\tassk4\tassk4\obj\Debug\tassk4.Properties.Resources.resources
+C:\Users\user\source\repos\tassk4\tassk4\obj\Debug\tassk4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tassk4\tassk4\obj\Debug\tassk4.exe
+C:\Users\user\source\repos\tassk4\tassk4\obj\Debug\tassk4.pdb
